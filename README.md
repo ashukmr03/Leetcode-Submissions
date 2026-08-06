@@ -8,8 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
 | [2469-convert-the-temperature](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
