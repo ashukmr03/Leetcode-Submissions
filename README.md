@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
