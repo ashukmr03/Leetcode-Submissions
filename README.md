@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0575-distribute-candies) |
 ## Linked List
 |  |
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
