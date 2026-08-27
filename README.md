@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0575-distribute-candies) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
