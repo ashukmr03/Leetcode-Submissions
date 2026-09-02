@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0575-distribute-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
