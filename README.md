@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0575-distribute-candies](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0575-distribute-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
