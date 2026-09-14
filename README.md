@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0292-nim-game) |
+| [0836-rectangle-overlap](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2469-convert-the-temperature) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0175-combine-two-tables) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
