@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
