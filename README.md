@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0575-distribute-candies](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0575-distribute-candies) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 <!---LeetCode Topics End-->
