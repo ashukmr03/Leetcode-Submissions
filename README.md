@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0482-license-key-formatting](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
+| [0831-masking-personal-information](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
