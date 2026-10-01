@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0482-license-key-formatting](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Simulation
@@ -200,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
