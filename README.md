@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
