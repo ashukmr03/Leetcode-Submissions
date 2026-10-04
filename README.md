@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1323-maximum-69-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
+| [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Simulation
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## String Matching
 |  |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
