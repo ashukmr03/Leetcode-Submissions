@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String Matching
 |  |
 | ------- |
