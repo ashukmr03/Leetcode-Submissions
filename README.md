@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
