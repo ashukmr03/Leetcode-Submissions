@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0575-distribute-candies](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0575-distribute-candies) |
+| [0867-transpose-matrix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
