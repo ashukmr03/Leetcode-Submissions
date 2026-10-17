@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3959-check-good-integer](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3959-check-good-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
+| [3959-check-good-integer](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/3959-check-good-integer) |
 ## Zero-Sum Game
 |  |
 | ------- |
