@@ -1,0 +1,20 @@
+from collections import OrderedDict
+
+class LRUCache:
+    def __init__(self, capacity: int):
+        self.capacity = capacity
+        self.cache = OrderedDict()  # left = least recently used, right = most recently used
+    def get(self, key: int) -> int:
+        if key not in self.cache:
+            return -1
+        # Key was used, so make it most recently used
+        self.cache.move_to_end(key)
+        return self.cache[key]
+    def put(self, key: int, value: int) -> None:
+        if key in self.cache:
+            # Update existing value and mark it most recently used
+            self.cache.move_to_end(key)
+        self.cache[key] = value
+        # If capacity exceeded, remove least recently used item
+        if len(self.cache) > self.capacity:
+            self.cache.popitem(last=False)
