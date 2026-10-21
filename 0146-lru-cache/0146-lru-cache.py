@@ -1,20 +1,51 @@
-from collections import OrderedDict
-
+class Node:
+    def __init__(self, key=0, value=0):
+        self.key = key
+        self.value = value
+        self.prev = None
+        self.next = None
 class LRUCache:
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.cache = OrderedDict()  # left = least recently used, right = most recently used
+        self.cache = {}  # key -> Node
+        # Dummy head and tail to avoid edge cases
+        self.head = Node()  # right after head = most recently used
+        self.tail = Node()  # before tail = least recently used
+        self.head.next = self.tail
+        self.tail.prev = self.head
+    def _remove(self, node: Node) -> None:
+        """Remove a node from the linked list."""
+        prev_node = node.prev
+        next_node = node.next
+        prev_node.next = next_node
+        next_node.prev = prev_node
+    def _add_to_front(self, node: Node) -> None:
+        """Insert node right after head (most recently used position)."""
+        node.next = self.head.next
+        node.prev = self.head
+        self.head.next.prev = node
+        self.head.next = node
     def get(self, key: int) -> int:
         if key not in self.cache:
             return -1
-        # Key was used, so make it most recently used
-        self.cache.move_to_end(key)
-        return self.cache[key]
+        node = self.cache[key]
+        # Move this node to the front because it was just used
+        self._remove(node)
+        self._add_to_front(node)
+        return node.value
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
-            # Update existing value and mark it most recently used
-            self.cache.move_to_end(key)
-        self.cache[key] = value
-        # If capacity exceeded, remove least recently used item
+            node = self.cache[key]
+            node.value = value
+            # Existing key was used, so move it to front
+            self._remove(node)
+            self._add_to_front(node)
+            return
+        node = Node(key, value)
+        self.cache[key] = node
+        self._add_to_front(node)
+        # Evict least recently used node if over capacity
         if len(self.cache) > self.capacity:
-            self.cache.popitem(last=False)
+            lru = self.tail.prev
+            self._remove(lru)
+            del self.cache[lru.key]
