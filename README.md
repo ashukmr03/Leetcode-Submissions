@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0136-single-number) |
