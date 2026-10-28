@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
@@ -219,11 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
