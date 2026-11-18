@@ -6,13 +6,14 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: TreeNode | None, k: int) -> int:
-        #inorder traversal of a bst is always sorted
-        arr=[]
-        def traverse(node):
-            if node is None:
-                return
-            traverse(node.left)
-            arr.append(node.val)
-            traverse(node.right)
-        traverse(root)
-        return arr[k-1]
+        stack = []
+        curr = root
+        while curr or stack:
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            curr = stack.pop()
+            k -= 1
+            if k == 0:
+                return curr.val
+            curr = curr.right
