@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
