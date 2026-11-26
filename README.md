@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0669-trim-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ashukmr03/Leetcode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
